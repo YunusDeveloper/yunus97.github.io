@@ -10,3 +10,19 @@
 html{
 	background-color: #91784d;
 }
+
+a:link{
+	color: #fff;
+}
+
+a:visited{
+	color: blue;
+}
+
+a:hover{
+	color: black;
+}
+
+li::first-line{
+	color: #fff;
+}
